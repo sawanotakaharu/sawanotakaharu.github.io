@@ -1,0 +1,16 @@
+}
+
+ul.gnav-list-1 li a {
+    display: block;
+    padding: 1em;
+    color: #fff;
+    font-size: 12px;
+    text-decoration: none;
+}
+ul.gnav-list-1 li a::first-line {
+    font-size: 16px;
+    font-weight: bold;
+}
+ul.gnav-list-1 li a:haver {
+    background: #00b7ce;
+}
